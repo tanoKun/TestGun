@@ -1,0 +1,6 @@
+name: TestGun
+version: '${project.version}'
+main: com.github.tanokun.testgun.TestGun
+api-version: 1.17
+authors: [ tanokun ]
+description: バーカ
